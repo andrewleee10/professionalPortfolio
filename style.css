@@ -1,0 +1,44 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.navbar {
+  background-color: aliceblue;
+}
+
+.container {
+  /* display:inline-block; */
+  width: 100%;
+}
+
+.nav {
+  background-color: blanchedalmond;
+}
+
+img {
+  display:block;
+  width: 50%;
+  height: auto;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.center1 {
+  width:50%;
+  margin:auto;
+  border: 2px solid;
+  padding: 10px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.one {
+  margin-top: 50px;
+  height: auto;
+}
+
+footer {
+  font-family: 'Quicksand', sans-serif;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  text-align: center;
+}
