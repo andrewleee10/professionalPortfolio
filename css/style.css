@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-  /* display:inline-block; */
+  display:inline-block;
   width: 100%;
 }
 
@@ -33,7 +33,6 @@ img {
 
 .one {
   margin-top: 50px;
-  height: auto;
 }
 
 footer {
@@ -43,3 +42,6 @@ footer {
   text-align: center;
 }
 
+#me2, #me1 {
+  vertical-align:middle;
+}
