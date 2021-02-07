@@ -9,6 +9,7 @@ body {
 .container {
   display:inline-block;
   width: 100%;
+  vertical-align: middle;
 }
 
 .nav {
@@ -33,6 +34,7 @@ img {
 
 .one {
   margin-top: 50px;
+  vertical-align: middle;
 }
 
 footer {
@@ -44,4 +46,8 @@ footer {
 
 #me2, #me1 {
   vertical-align:middle;
+}
+
+img {
+  display:inline-block;
 }
