@@ -2,18 +2,10 @@ body {
   background-color: blanchedalmond;
 }
 
-.navbar {
-  background-color: aliceblue;
-}
-
 .container {
   display:inline-block;
   width: 100%;
   vertical-align: middle;
-}
-
-.nav {
-  background-color: blanchedalmond;
 }
 
 img {
@@ -22,6 +14,7 @@ img {
   height: auto;
   margin-left:auto;
   margin-right:auto;
+  align-content: center;
 }
 
 .center1 {
@@ -44,10 +37,8 @@ footer {
   text-align: center;
 }
 
-#me2, #me1 {
+/* #me2, #me1 {
+  display:block;
   vertical-align:middle;
-}
+} */
 
-img {
-  display:inline-block;
-}
