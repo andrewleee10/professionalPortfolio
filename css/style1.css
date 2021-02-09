@@ -2,22 +2,26 @@ body {
   background-color: blanchedalmond;
 }
 
+/* Main div containing portfolio cards */
 .container {
   display: inline-block;
   width: 100%;
 }
 
+/* Main header */
 h1 {
   text-align: center;
   font-family: 'Quicksand', sans-serif;
   margin-bottom: 30px;
 }
 
+/* Main row containing the cards */
 .one{
   margin-bottom: 30px;
   text-align:center;
 }
 
+/* specific ids for each card */
 #crd {
   display:inline-block;
   align-items:center;

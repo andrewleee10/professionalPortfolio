@@ -2,6 +2,7 @@ body {
   background-color: blanchedalmond;
 }
 
+/* Main Div containing contact card  */
 .container {
   display: block;
   width: 75%;
